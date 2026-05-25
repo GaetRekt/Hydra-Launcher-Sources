@@ -1,0 +1,21 @@
+{
+  "name": "KaOs Krew DDL - Personnel",
+  "downloads": [
+    {
+      "title": "I forgot my password",
+      "uris": [
+        "https://kaoskrew.org/user/forgot_password?sid=069658f136ce304014059059dbe2ee3a"
+      ],
+      "uploadDate": "2026-05-25T13:57:22.290Z",
+      "fileSize": "Direct DDL"
+    },
+    {
+      "title": "Delete cookies",
+      "uris": [
+        "https://kaoskrew.org/user/delete_cookies?sid=069658f136ce304014059059dbe2ee3a"
+      ],
+      "uploadDate": "2026-05-25T13:57:22.290Z",
+      "fileSize": "Direct DDL"
+    }
+  ]
+}
